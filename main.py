@@ -12,8 +12,6 @@ from light_calculation import LightController
 from level_generation import ChunkController
 from game_interface import GameInterface
 from graphics import TileImage, draw_text
-from OpenGL.GL import *
-from OpenGL.GLU import *
 import threading
 import select
 import json

@@ -1,7 +1,6 @@
 import pygame
 import os
 import math
-from OpenGL.GL import *
 import sys
 import time
 from constants import *

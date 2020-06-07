@@ -9,9 +9,7 @@ from inventory import Inventory, Item
 from light_calculation import LightController
 from level_generation import ChunkController
 from graphics import TileImage, draw_resized_image, draw_text
-from OpenGL.GL import *
 from constants import *
-from OpenGL.GLU import *
 import json
 import os
 import time

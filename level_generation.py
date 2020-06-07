@@ -8,8 +8,6 @@ from structures import GlobalRotatingObject, Block, Player, load_image, make_gl_
     gl_draw_single_tex
 from inventory import Inventory, Item
 from graphics import TileImage
-from OpenGL.GL import *
-from OpenGL.GLU import *
 import json
 import os
 from structures import BlockDrop

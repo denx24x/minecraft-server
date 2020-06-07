@@ -1,7 +1,6 @@
 import pygame
 import os
 import math
-from OpenGL.GL import *
 import sys
 from sprite_handle import set_pos, rotate_and_draw
 from graphics import gl_draw_single_tex, make_gl_image, createTexDL, load_image, draw_resized_image, TileImage

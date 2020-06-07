@@ -7,8 +7,6 @@ from maths import check_square_collision, check_square_intersect
 from structures import ObjectData, BlockDrop, GlobalRotatingObject, Block, Player, load_image, make_gl_image, createTexDL, gl_draw_single_tex
 from inventory import Inventory, Item
 from graphics import TileImage
-from OpenGL.GL import *
-from OpenGL.GLU import *
 import json
 import os
 

@@ -1,7 +1,6 @@
 import pygame
 import os
 import math
-from OpenGL.GL import *
 import sys
 
 if getattr(sys, 'frozen', False):

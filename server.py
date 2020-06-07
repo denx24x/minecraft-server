@@ -331,11 +331,6 @@ class Server:
                 print('unknown command')
 
 
-@app.route('/')
-def index():
-    return 'Это чтобы он крутился на сервисе'
-        
-
 def ping():
     timing = time.time()
     while True:
@@ -347,10 +342,5 @@ def ping():
 if __name__ == '__main__':
     server = Server(4400, isLocal=False)
     main = threading.Thread(target=server.run)
-    listener = threading.Thread(target=server.listen_cmd)
     main.start()
-    listener.start()
-    port = int(os.environ.get("PORT", 5000))
-    thread = threading.Thread(target = ping)
-    thread.start()
-    app.run(port=port, host='0.0.0.0')
+

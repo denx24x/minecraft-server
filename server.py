@@ -345,7 +345,7 @@ def ping():
 
 
 if __name__ == '__main__':
-    server = Server(440, isLocal=False)
+    server = Server(4400, isLocal=False)
     main = threading.Thread(target=server.run)
     listener = threading.Thread(target=server.listen_cmd)
     main.start()

@@ -1,0 +1,38 @@
+{
+	"result": [
+		"wooden_pickaxe",
+		1
+	],
+	"recipe": [
+		[
+			[
+			"planks",
+			1
+			],
+			[
+			"planks",
+			1
+			],
+			[
+			"planks",
+			1
+			]
+		],
+		[
+			["None", 0],
+			[
+			"stick",
+			1
+			],
+			["None", 0]
+		],
+		[
+			["None", 0],
+			[
+			"stick",
+			1
+			],
+			["None", 0]
+		]
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"result": [
+		"redstone_block",
+		1
+	],
+	"recipe": [
+		[
+			[
+			"redstone_dust",
+			1
+			],
+			[
+			"redstone_dust",
+			1
+			]
+		],
+		[
+			[
+			"redstone_dust",
+			1
+			],
+			[
+			"redstone_dust",
+			1
+			]
+		]
+	]
+}

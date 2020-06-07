@@ -1,0 +1,12 @@
+{
+	"name": "stick",
+	"path": "stick.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_item": 1,
+	"is_phys": 0,
+	"transparent": 0,
+	"hp": 0,
+	"lighting": 0,
+	"drop": []
+}

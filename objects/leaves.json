@@ -1,0 +1,12 @@
+{
+	"name": "leaves",
+	"path": "leaves_oak.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 0,
+	"is_item": 0,
+	"transparent": 1,
+	"hp": 50,
+	"lighting": 0,
+	"drop": []
+}

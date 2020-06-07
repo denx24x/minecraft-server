@@ -1,0 +1,28 @@
+{
+	"result": [
+		"diamond_block",
+		1
+	],
+	"recipe": [
+		[
+			[
+			"diamond",
+			1
+			],
+			[
+			"diamond",
+			1
+			]
+		],
+		[
+			[
+			"diamond",
+			1
+			],
+			[
+			"diamond",
+			1
+			]
+		]
+	]
+}

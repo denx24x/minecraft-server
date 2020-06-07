@@ -1,0 +1,16 @@
+{
+	"name": "iron_block",
+	"path": "iron_block.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 1,
+	"is_item": 0,
+	"transparent": 0,
+	"hp": 400,
+	"lighting": 0,
+	"drop": [
+		"iron_block",
+		1,
+		1
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"result": [
+		"stone_pickaxe",
+		1
+	],
+	"recipe": [
+		[
+			[
+			"cobblestone",
+			1
+			],
+			[
+			"cobblestone",
+			1
+			],
+			[
+			"cobblestone",
+			1
+			]
+		],
+		[
+			["None", 0],
+			[
+			"stick",
+			1
+			],
+			["None", 0]
+		],
+		[
+			["None", 0],
+			[
+			"stick",
+			1
+			],
+			["None", 0]
+		]
+	]
+}

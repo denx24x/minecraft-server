@@ -1,0 +1,20 @@
+{
+	"result": [
+		"redstone_torch",
+		4
+	],
+	"recipe": [
+		[
+			[
+			"redstone_dust",
+			1
+			]
+		],
+		[
+			[
+			"stick",
+			1
+			]
+		]
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "stone",
+	"path": "stone.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 1,
+	"is_item": 0,
+	"transparent": 0,
+	"hp": 200,
+	"lighting": 0,
+	"drop": [
+		"cobblestone",
+		1,
+		1
+	]
+}

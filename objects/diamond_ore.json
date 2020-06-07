@@ -1,0 +1,16 @@
+{
+	"name": "diamond_ore",
+	"path": "diamond_ore.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 1,
+	"is_item": 0,
+	"transparent": 0,
+	"hp": 350,
+	"lighting": 0,
+	"drop": [
+		"diamond",
+		1,
+		3
+	]
+}

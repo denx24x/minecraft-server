@@ -1,0 +1,16 @@
+{
+	"name": "dirt",
+	"path": "dirt.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 1,
+	"is_item": 0,
+	"transparent": 0,
+	"hp": 100,
+	"lighting": 0,
+	"drop": [
+		"dirt",
+		1,
+		1
+	]
+}

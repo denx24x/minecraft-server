@@ -1,0 +1,38 @@
+{
+	"result": [
+		"iron_pickaxe",
+		1
+	],
+	"recipe": [
+		[
+			[
+			"iron_ingot",
+			1
+			],
+			[
+			"iron_ingot",
+			1
+			],
+			[
+			"iron_ingot",
+			1
+			]
+		],
+		[
+			["None", 1],
+			[
+			"stick",
+			1
+			],
+			["None", 1]
+		],
+		[
+			["None", 1],
+			[
+			"stick",
+			1
+			],
+			["None", 1]
+		]
+	]
+}

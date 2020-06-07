@@ -1,0 +1,16 @@
+{
+	"name": "wood",
+	"path": "log_oak.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 1,
+	"is_item": 0,
+	"transparent": 0,
+	"hp": 150,
+	"lighting": 0,
+	"drop": [
+		"wood",
+		1,
+		1
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "redstone_ore",
+	"path": "redstone_ore.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 1,
+	"is_item": 0,
+	"transparent": 0,
+	"hp": 250,
+	"lighting": 0,
+	"drop": [
+		"redstone_dust",
+		1,
+		5
+	]
+}

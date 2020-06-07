@@ -1,0 +1,16 @@
+{
+	"name": "grass",
+	"path": "grass.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 1,
+	"transparent": 0,
+	"is_item": 0,
+	"hp": 100,
+	"lighting": 0,
+	"drop": [
+		"dirt",
+		1,
+		1
+	]
+}

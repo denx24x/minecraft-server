@@ -1,0 +1,12 @@
+{
+	"name": "empty",
+	"path": "empty.png",
+	"class": "simple_block",
+	"items_class": "simple_item",
+	"is_phys": 0,
+	"is_item": 1,
+	"transparent": 1,
+	"hp": 0,
+	"lighting": 0,
+	"drop": []
+}

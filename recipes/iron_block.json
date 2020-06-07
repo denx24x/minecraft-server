@@ -1,0 +1,28 @@
+{
+	"result": [
+		"iron_block",
+		1
+	],
+	"recipe": [
+		[
+			[
+			"iron_ingot",
+			1
+			],
+			[
+			"iron_ingot",
+			1
+			]
+		],
+		[
+			[
+			"iron_ingot",
+			1
+			],
+			[
+			"iron_ingot",
+			1
+			]
+		]
+	]
+}

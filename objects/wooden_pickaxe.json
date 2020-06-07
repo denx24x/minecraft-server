@@ -1,0 +1,12 @@
+{
+	"name": "wooden_pickaxe",
+	"path": "wooden_pickaxe.png",
+	"class": "simple_block",
+	"items_class": "wooden_pickaxe",
+	"is_phys": 0,
+	"is_item": 1,
+	"transparent": 0,
+	"hp": 0,
+	"lighting": 0,
+	"drop": []
+}

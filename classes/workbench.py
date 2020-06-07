@@ -1,6 +1,5 @@
 from structures import Block
 from inventory import CraftModel, check_craft
-from OpenGL.GL import *
 from constants import *
 import copy
 

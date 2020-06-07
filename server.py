@@ -1,6 +1,4 @@
-﻿from OpenGL.GL import *
-from OpenGL.GLU import *
-import json
+﻿import json
 import os
 import socket
 from main import Game

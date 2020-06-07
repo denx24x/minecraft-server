@@ -1,3 +1,4 @@
 PyOpenGL
 pygame
 flask
+requests
